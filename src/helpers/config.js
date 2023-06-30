@@ -1,10 +1,10 @@
 export default {
-  listenerToken: "MTExMDU5MDUzNjE5MDAyMTY0Mw.G8RNJW.M7sIzOOceHy3u2nNRRkLiDZExCnXdIPUqHbFDY",
-  sniperToken: "MTA3NTg0MDY2NjIxMjUxMTgwNQ.GRPJ91.Bd_M70PycYUt49_HjumonbltpoeaGN1kd9l-8Y",
+  listenerToken: "MTExMDU5MDUzNjE5MDAyMTY0Mw.GGkSlZ.guQ-YhA6pQYbaUgIjxT1GwqZeyCe5Gq54ZA8oo",
+  sniperToken: "MTA3NTg0MDY2NjIxMjUxMTgwNQ.Go60Rp.cTYUdR3flznzrb6Gd2S2g427o5JRBDn8pEbf0M",
   sniperGuild: "1112653495322038282",
   webhooks: {
-    infoUrl: "https://discord.com/api/webhooks/1123226000940081182/6aSGHymf5rupizycmFMbXaWUtw1XPc3l5-pEe_nz2ly5eJMZBXVtYcGDXGGPWbB9AGBq",
-    errorUrl: "https://discord.com/api/webhooks/1123226000940081182/6aSGHymf5rupizycmFMbXaWUtw1XPc3l5-pEe_nz2ly5eJMZBXVtYcGDXGGPWbB9AGBq",
-    successUrl:"https://discord.com/api/webhooks/1123226000940081182/6aSGHymf5rupizycmFMbXaWUtw1XPc3l5-pEe_nz2ly5eJMZBXVtYcGDXGGPWbB9AGBq",
+    infoUrl: "https://discord.com/api/webhooks/1100163788176637953/2snR2gcnAuw8nHv4nW-361jZip4FaNmzmP2SNiPqbjSPqUzR2E9l5Fxf7OSJ0oKHkpSB",
+    errorUrl: "https://discord.com/api/webhooks/1100163691661500498/SaJtlHBkaWQ7EtgitSNYth_ygmGQXJb8Gu9KiapEtu4pwiCTEC2ydDoHO-j-m2fch4kG",
+    successUrl:"https://discord.com/api/webhooks/1100163634191143033/qf8lyF4gjzROkddTYUDe3UMaJIfRPApJ1rnipyuwhjGISejj7xer0hLGXYX_9BLGf2XY",
   },
 };
