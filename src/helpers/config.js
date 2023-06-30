@@ -1,6 +1,6 @@
 export default {
-  listenerToken: "MTExMDU5MDUzNjE5MDAyMTY0Mw.GGkSlZ.guQ-YhA6pQYbaUgIjxT1GwqZeyCe5Gq54ZA8oo",
-  sniperToken: "MTA3NTg0MDY2NjIxMjUxMTgwNQ.Go60Rp.cTYUdR3flznzrb6Gd2S2g427o5JRBDn8pEbf0M",
+  listenerToken: "MTExMDU5MDUzNjE5MDAyMTY0Mw.GIKRp7.EvqxqCbLUxQeBwKuuEbHCZHS_-r8iQ77e6lAx8",
+  sniperToken: "MTA3NTg0MDY2NjIxMjUxMTgwNQ.Goco_d.1HZokUdppwx5JQQOLk5wR0dHT8Lp-we0MHNuRw",
   sniperGuild: "1112653495322038282",
   webhooks: {
     infoUrl: "https://discord.com/api/webhooks/1100163788176637953/2snR2gcnAuw8nHv4nW-361jZip4FaNmzmP2SNiPqbjSPqUzR2E9l5Fxf7OSJ0oKHkpSB",
