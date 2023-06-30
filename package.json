@@ -1,0 +1,19 @@
+{
+  "name": "icarus-wiase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "pm2 start src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^3.1.1",
+    "chalk": "^5.2.0",
+    "pm2": "^5.3.0",
+    "ws": "^8.12.1"
+  }
+}
